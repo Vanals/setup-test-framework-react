@@ -5,6 +5,7 @@ class Comment extends Component {
     return (
       <li>
       <p> Ciao Marco </p>
+      <p className='comment-item'> {this.props.comment} </p>
       </li>
     )
   }
