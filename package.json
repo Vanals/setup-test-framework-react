@@ -35,6 +35,7 @@
     "sinon": "^4.2.1"
   },
   "dependencies": {
+    "enzyme-adapter-react-16": "^1.1.1",
     "jsdom": "^9.12.0"
   }
 }
