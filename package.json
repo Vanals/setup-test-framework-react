@@ -35,6 +35,6 @@
     "sinon": "^4.2.1"
   },
   "dependencies": {
-    "jsdom": "^11.6.1"
+    "jsdom": "^9.12.0"
   }
 }
