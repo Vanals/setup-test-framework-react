@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "scripts": {
     "test": "mocha --compilers js:babel-register --require ./test/helpers.js --require ./test/dom.js --recursive",
     "tdd": "npm test -- --watch",
     "dev": "webpack-dev-server --port 3000 --devtool eval --progress --colors --hot --content-base dist",
