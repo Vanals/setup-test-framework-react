@@ -1,6 +1,6 @@
 # setup-test-framework-react
 
-This project is to practise  and setting up Mocha, Chai and Sinon. </br>
+This project is to practise  and set up Mocha, Chai and Sinon. </br>
 Javascript frameworks used to test react components.
 
 ## How to use
